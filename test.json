@@ -2,6 +2,7 @@
     "CanShowAds": true,
     "CanShowRewarded": true,
     "CanShowBanner": true,
+    "CanShowAdaptiveBanner": true,
     "CanShowAppOpen": true,
     "CanShowMRec": true,
     "CanShowLevelCompleteInterstitial": true,
