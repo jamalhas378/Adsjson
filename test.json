@@ -1,0 +1,14 @@
+{
+    "CanShowAds": true,
+    "CanShowRewarded": true,
+    "CanShowBanner": true,
+    "CanShowAppOpen": true,
+    "CanShowMRec": true,
+    "CanShowLevelCompleteInterstitial": true,
+    "CanShowLevelFailInterstitial": true,
+    "CanShowMainMenuToLevelInterstitial": true,
+    "CanShowLevelToLoadingInterstitial": true,
+    "CanShowGamePlayToMainMenuInterstitial": true,
+    "CanShowPauseInterstitial": true,
+    "CanShowPeriodicInterstitial": true
+}
