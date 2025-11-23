@@ -11,5 +11,6 @@
     "CanShowLevelToLoadingInterstitial": true,
     "CanShowGamePlayToMainMenuInterstitial": true,
     "CanShowPauseInterstitial": true,
-    "CanShowPeriodicInterstitial": true
+    "CanShowPeriodicInterstitial": true,
+    "CanShowAppOpenOnApplicationResume": true
 }
