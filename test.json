@@ -12,5 +12,7 @@
     "CanShowGamePlayToMainMenuInterstitial": true,
     "CanShowPauseInterstitial": true,
     "CanShowPeriodicInterstitial": true,
-    "CanShowAppOpenOnApplicationResume": true
+    "CanShowAppOpenOnApplicationResume": true,
+    "CanShowAppOpenOnRewardedClose": true,
+    "CanShowAppOpenOnInterstitialClose":true
 }
