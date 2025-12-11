@@ -16,5 +16,7 @@
     "ShowRewardedInterstial": true,
     "CanShowAppOpenOnRewardedClose": false,
     "CanShowAppOpenOnInterstitialClose":false
+
+    
 }
 
