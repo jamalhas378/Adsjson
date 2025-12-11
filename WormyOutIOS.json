@@ -13,4 +13,7 @@
     "CanShowPauseInterstitial": true,
     "CanShowPeriodicInterstitial": true,
     "CanShowAppOpenOnApplicationResume": true
+    "ShowRewardedInterstial": true,
+    "CanShowAppOpenOnRewardedClose": false,
+    "CanShowAppOpenOnInterstitialClose":false
 }
