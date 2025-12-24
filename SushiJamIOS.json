@@ -1,6 +1,6 @@
 {
-    "CanShowAds": true,
-    "CanShowRewarded": true,
+    "CanShowAds": false,
+    "CanShowRewarded": false,
     "CanShowBanner": false,
     "CanShowAdaptiveBanner": false,
     "CanShowAppOpen": false,
